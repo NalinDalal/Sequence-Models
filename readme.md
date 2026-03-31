@@ -1,9 +1,9 @@
 # Week 11: Sequence Models
 
-- [Distributed Representations of Words and Phrases and their Compositionality](./DistribuRepreWordPhrase.md)
-
-
 ## Schedule
+
+### Day 1
+- [Distributed Representations of Words and Phrases and their Compositionality](./DistribuRepreWordPhrase.md)
 
 ### Day 2
 - **Sutskever, Vinyals & Le (2014)** — Seq2Seq ([Paper](https://arxiv.org/pdf/1409.3215) | [Video](https://youtu.be/XXtpJxZBa2c))
