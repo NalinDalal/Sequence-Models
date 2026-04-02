@@ -187,6 +187,8 @@ With our toy dataset (30 English-French pairs), the model learns basic translati
 
 3. **Vaswani et al. (2017)** - "Attention Is All You Need" - [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
 
+4. **English to French Translation using Seq2Seq (Jupyter Notebook)** - [GitHub: SayamAlt/English-to-French-Language-Translation-using-Seq2Seq-Modeling](https://github.com/SayamAlt/English-to-French-Language-Translation-using-Seq2Seq-Modeling)
+
 ---
 
 ## Appendix: Complete Training Output Example
